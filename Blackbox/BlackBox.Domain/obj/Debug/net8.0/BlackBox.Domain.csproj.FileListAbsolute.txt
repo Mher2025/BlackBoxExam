@@ -1,0 +1,12 @@
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\bin\Debug\net8.0\BlackBox.Domain.deps.json
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\bin\Debug\net8.0\BlackBox.Domain.dll
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\bin\Debug\net8.0\BlackBox.Domain.pdb
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\obj\Debug\net8.0\BlackBox.Domain.csproj.AssemblyReference.cache
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\obj\Debug\net8.0\BlackBox.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\obj\Debug\net8.0\BlackBox.Domain.AssemblyInfoInputs.cache
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\obj\Debug\net8.0\BlackBox.Domain.AssemblyInfo.cs
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\obj\Debug\net8.0\BlackBox.Domain.csproj.CoreCompileInputs.cache
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\obj\Debug\net8.0\BlackBox.Domain.dll
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\obj\Debug\net8.0\refint\BlackBox.Domain.dll
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\obj\Debug\net8.0\BlackBox.Domain.pdb
+D:\Test\Blackbox\Blackbox\BlackBox.Domain\obj\Debug\net8.0\ref\BlackBox.Domain.dll

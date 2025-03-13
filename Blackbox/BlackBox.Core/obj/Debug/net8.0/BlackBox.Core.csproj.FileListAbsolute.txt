@@ -1,0 +1,15 @@
+D:\Test\Blackbox\Blackbox\BlackBox.Core\bin\Debug\net8.0\BlackBox.Core.deps.json
+D:\Test\Blackbox\Blackbox\BlackBox.Core\bin\Debug\net8.0\BlackBox.Core.dll
+D:\Test\Blackbox\Blackbox\BlackBox.Core\bin\Debug\net8.0\BlackBox.Core.pdb
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\BlackBox.Core.csproj.AssemblyReference.cache
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\BlackBox.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\BlackBox.Core.AssemblyInfoInputs.cache
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\BlackBox.Core.AssemblyInfo.cs
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\BlackBox.Core.csproj.CoreCompileInputs.cache
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\BlackBox.Core.dll
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\refint\BlackBox.Core.dll
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\BlackBox.Core.pdb
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\ref\BlackBox.Core.dll
+D:\Test\Blackbox\Blackbox\BlackBox.Core\bin\Debug\net8.0\BlackBox.Domain.dll
+D:\Test\Blackbox\Blackbox\BlackBox.Core\bin\Debug\net8.0\BlackBox.Domain.pdb
+D:\Test\Blackbox\Blackbox\BlackBox.Core\obj\Debug\net8.0\BlackBox.3AD38E78.Up2Date

@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test\\Blackbox\\Blackbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|d:\\test\\blackbox\\blackbox\\blackbox.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|solutionrelative:blackbox.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\features\\users\\commands\\delete\\deleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\features\\users\\commands\\delete\\deleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\features\\users\\commands\\update\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\features\\users\\commands\\update\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\constant\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\constant\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\features\\users\\commands\\create\\insertuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\features\\users\\commands\\create\\insertuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\features\\users\\dtos\\insertuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\features\\users\\dtos\\insertuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\features\\users\\queries\\getuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\features\\users\\queries\\getuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\blackbox.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\blackbox.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|d:\\test\\blackbox\\blackbox\\blackbox.api\\results\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|solutionrelative:blackbox.api\\results\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\features\\users\\dtos\\getusersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\features\\users\\dtos\\getusersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|d:\\test\\blackbox\\blackbox\\blackbox.domain\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|solutionrelative:blackbox.domain\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|d:\\test\\blackbox\\blackbox\\blackbox.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|solutionrelative:blackbox.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|d:\\test\\blackbox\\blackbox\\blackbox.core\\features\\users\\mappingprofiles\\usersprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512D02EF-1A7F-4A78-8B97-B8F9DC0AD8B2}|BlackBox.Core\\BlackBox.Core.csproj|solutionrelative:blackbox.core\\features\\users\\mappingprofiles\\usersprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|d:\\test\\blackbox\\blackbox\\blackbox.api\\middleware\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|solutionrelative:blackbox.api\\middleware\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|d:\\test\\blackbox\\blackbox\\blackbox.domain\\database\\configuration\\usersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|solutionrelative:blackbox.domain\\database\\configuration\\usersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|d:\\test\\blackbox\\blackbox\\blackbox.domain\\entities\\usersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|solutionrelative:blackbox.domain\\entities\\usersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|d:\\test\\blackbox\\blackbox\\blackbox.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|solutionrelative:blackbox.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|d:\\test\\blackbox\\blackbox\\blackbox.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|solutionrelative:blackbox.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|d:\\test\\blackbox\\blackbox\\blackbox.api\\blackbox.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F647054E-69FB-485C-83EF-B35EA70E79C9}|BlackBox.Api\\BlackBox.Api.csproj|solutionrelative:blackbox.api\\blackbox.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|d:\\test\\blackbox\\blackbox\\blackbox.domain\\blackbox.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BEE2C23-BCB4-4B3E-9CE9-F09E42CBEBD4}|BlackBox.Domain\\BlackBox.Domain.csproj|solutionrelative:blackbox.domain\\blackbox.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 225,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteUser.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\Commands\\Delete\\DeleteUser.cs",
+              "RelativeDocumentMoniker": "BlackBox.Core\\Features\\Users\\Commands\\Delete\\DeleteUser.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\Commands\\Delete\\DeleteUser.cs",
+              "RelativeToolTip": "BlackBox.Core\\Features\\Users\\Commands\\Delete\\DeleteUser.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIA0wCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:03:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Exception\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "BlackBox.Core\\Exception\\NotFoundException.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Exception\\NotFoundException.cs",
+              "RelativeToolTip": "BlackBox.Core\\Exception\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:13:52.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\Commands\\Update\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "BlackBox.Core\\Features\\Users\\Commands\\Update\\UpdateUser.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\Commands\\Update\\UpdateUser.cs",
+              "RelativeToolTip": "BlackBox.Core\\Features\\Users\\Commands\\Update\\UpdateUser.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wDQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:57:05.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertUserDTO.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\DTOs\\InsertUserDTO.cs",
+              "RelativeDocumentMoniker": "BlackBox.Core\\Features\\Users\\DTOs\\InsertUserDTO.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\DTOs\\InsertUserDTO.cs",
+              "RelativeToolTip": "BlackBox.Core\\Features\\Users\\DTOs\\InsertUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:06:52.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertUser.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\Commands\\Create\\InsertUser.cs",
+              "RelativeDocumentMoniker": "BlackBox.Core\\Features\\Users\\Commands\\Create\\InsertUser.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\Commands\\Create\\InsertUser.cs",
+              "RelativeToolTip": "BlackBox.Core\\Features\\Users\\Commands\\Create\\InsertUser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:53:26.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersProfile.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\MappingProfiles\\UsersProfile.cs",
+              "RelativeDocumentMoniker": "BlackBox.Core\\Features\\Users\\MappingProfiles\\UsersProfile.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\MappingProfiles\\UsersProfile.cs",
+              "RelativeToolTip": "BlackBox.Core\\Features\\Users\\MappingProfiles\\UsersProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:59:48.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUsersDTO.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\DTOs\\GetUsersDTO.cs",
+              "RelativeDocumentMoniker": "BlackBox.Core\\Features\\Users\\DTOs\\GetUsersDTO.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\DTOs\\GetUsersDTO.cs",
+              "RelativeToolTip": "BlackBox.Core\\Features\\Users\\DTOs\\GetUsersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:42:17.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\Results\\ApiResult.cs",
+              "RelativeDocumentMoniker": "BlackBox.Api\\Results\\ApiResult.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\Results\\ApiResult.cs",
+              "RelativeToolTip": "BlackBox.Api\\Results\\ApiResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:38:01.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BlackBox.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BlackBox.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:36:29.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlackBox.Core",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\BlackBox.Core.csproj",
+              "RelativeDocumentMoniker": "BlackBox.Core\\BlackBox.Core.csproj",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\BlackBox.Core.csproj",
+              "RelativeToolTip": "BlackBox.Core\\BlackBox.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T02:31:24.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetUserList.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\Queries\\GetUserList.cs",
+              "RelativeDocumentMoniker": "BlackBox.Core\\Features\\Users\\Queries\\GetUserList.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Features\\Users\\Queries\\GetUserList.cs",
+              "RelativeToolTip": "BlackBox.Core\\Features\\Users\\Queries\\GetUserList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:28:59.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersConfiguration.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\Database\\Configuration\\UsersConfiguration.cs",
+              "RelativeDocumentMoniker": "BlackBox.Domain\\Database\\Configuration\\UsersConfiguration.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\Database\\Configuration\\UsersConfiguration.cs",
+              "RelativeToolTip": "BlackBox.Domain\\Database\\Configuration\\UsersConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:06:57.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BlackBox.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BlackBox.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:31:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlackBox.Domain",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\BlackBox.Domain.csproj",
+              "RelativeDocumentMoniker": "BlackBox.Domain\\BlackBox.Domain.csproj",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\BlackBox.Domain.csproj",
+              "RelativeToolTip": "BlackBox.Domain\\BlackBox.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T23:28:34.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersEntity.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\Entities\\UsersEntity.cs",
+              "RelativeDocumentMoniker": "BlackBox.Domain\\Entities\\UsersEntity.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\Entities\\UsersEntity.cs",
+              "RelativeToolTip": "BlackBox.Domain\\Entities\\UsersEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T23:13:24.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BlackBox.Api\\appsettings.json",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\appsettings.json",
+              "RelativeToolTip": "BlackBox.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T22:54:10.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BlackBox.Api\\Program.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\Program.cs",
+              "RelativeToolTip": "BlackBox.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:57:27.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlackBox.Domain\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Domain\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BlackBox.Domain\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:53:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Constant\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "BlackBox.Core\\Constant\\ConnectionString.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Core\\Constant\\ConnectionString.cs",
+              "RelativeToolTip": "BlackBox.Core\\Constant\\ConnectionString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:38:09.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlackBox.Api",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\BlackBox.Api.csproj",
+              "RelativeDocumentMoniker": "BlackBox.Api\\BlackBox.Api.csproj",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\BlackBox.Api.csproj",
+              "RelativeToolTip": "BlackBox.Api\\BlackBox.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T16:30:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\Middleware\\Database.cs",
+              "RelativeDocumentMoniker": "BlackBox.Api\\Middleware\\Database.cs",
+              "ToolTip": "D:\\Test\\Blackbox\\Blackbox\\BlackBox.Api\\Middleware\\Database.cs",
+              "RelativeToolTip": "BlackBox.Api\\Middleware\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:28:35.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
